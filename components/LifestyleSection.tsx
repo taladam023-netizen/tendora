@@ -5,7 +5,7 @@ import { motion } from 'motion/react'
 
 const REVIEWS = [
   {
-    image: '/cat-lifestyle-1.jpg',
+    image: '/cat-10.jpg',
     name: 'Sarah M.',
     location: 'New York, US',
     stars: 5,
@@ -14,7 +14,7 @@ const REVIEWS = [
     color: 'from-pink-500/20 to-purple-500/20',
   },
   {
-    image: '/cat-lifestyle-2.jpg',
+    image: '/cat-11.jpg',
     name: 'Emma K.',
     location: 'London, UK',
     stars: 5,
@@ -23,7 +23,7 @@ const REVIEWS = [
     color: 'from-blue-500/20 to-teal-500/20',
   },
   {
-    image: '/cat-lifestyle-3.jpg',
+    image: '/cat-13.jpg',
     name: 'Rachel T.',
     location: 'Toronto, CA',
     stars: 5,
