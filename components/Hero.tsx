@@ -44,7 +44,9 @@ export default function Hero() {
 
         {/* Scroll CTA */}
         <a
-          href="#products"
+          href="https://cattag-8452.myshopify.com/products/reflective-collar-waterproof-holder-case-for-airtag-air-tag-airtags-protective-cover-cat-dog-kitten-puppy-nylon-collar"
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-block bg-brand-orange hover:bg-brand-orange-dark text-white font-black text-lg px-10 py-4 rounded-2xl glow-orange transition-all duration-200 active:scale-95"
         >
           Shop Now – Before It's Gone ↓

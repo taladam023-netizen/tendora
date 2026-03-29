@@ -136,7 +136,9 @@ export default function BeforeAfter() {
               {/* Arrow CTA */}
               <div className="mt-5 text-center">
                 <a
-                  href="#products"
+                  href="https://cattag-8452.myshopify.com/products/reflective-collar-waterproof-holder-case-for-airtag-air-tag-airtags-protective-cover-cat-dog-kitten-puppy-nylon-collar"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="inline-block bg-brand-orange hover:bg-brand-orange-dark text-white font-black text-sm px-6 py-3 rounded-xl transition-all duration-200 active:scale-95"
                 >
                   אני רוצה את זה ←

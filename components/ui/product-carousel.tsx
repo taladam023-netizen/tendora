@@ -67,7 +67,10 @@ export function ProductCarousel() {
 
   const handleBuy = () => {
     setAdded(true);
-    setTimeout(() => setAdded(false), 2000);
+    setTimeout(() => {
+      setAdded(false);
+      window.open('https://cattag-8452.myshopify.com/products/reflective-collar-waterproof-holder-case-for-airtag-air-tag-airtags-protective-cover-cat-dog-kitten-puppy-nylon-collar', '_blank');
+    }, 600);
   };
 
   useEffect(() => {

@@ -134,7 +134,7 @@ export default function LifestyleSection() {
           transition={{ duration: 0.5, delay: 0.4 }}
         >
           <a
-            href="https://cattag-8452.myshopify.com"
+            href="https://cattag-8452.myshopify.com/products/reflective-collar-waterproof-holder-case-for-airtag-air-tag-airtags-protective-cover-cat-dog-kitten-puppy-nylon-collar"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-brand-orange hover:bg-brand-orange-dark text-white font-black text-lg px-12 py-4 rounded-2xl glow-orange transition-all duration-200 active:scale-95"
